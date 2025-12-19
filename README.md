@@ -19,10 +19,10 @@ Merupakan course dari Hackactive mengenai LLM menggunakan gemini. Terdiri dari b
     - Function Calling
 4. RAG
     - Vector Database
-            - Embedding Model
-            - Indexing Mechanis
-            - Similarity Metrics
-            - Storage Engine
+        - Embedding Model
+        - Indexing Mechanis
+        - Similarity Metrics
+        - Storage Engine
     - LangChain
         - Model
         - Prompt
