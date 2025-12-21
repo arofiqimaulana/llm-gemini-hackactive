@@ -34,6 +34,7 @@ Merupakan course dari Hackactive mengenai LLM menggunakan gemini. Terdiri dari b
 
 
 ## Reference
+- https://excalidraw.com/
 - https://colab.research.google.com/drive/1b4xHmOBmDvG78tIQEfBKH94ddPURRm_N?usp=sharing
 - https://colab.research.google.com/drive/1QGcfi3ocdDofXi0WINVDO1s9kD6cmz8t?usp=sharing
 - https://console.groq.com/docs/quickstart
