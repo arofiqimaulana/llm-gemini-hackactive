@@ -1,4 +1,4 @@
-# llm-gemini-hackative
+# llm-gemini-hackactive8
 Merupakan course dari Hackactive mengenai LLM menggunakan gemini. Terdiri dari beberapa section yaitu
 1. Pengenalan Course
 2. Introduction Generative AI
@@ -32,6 +32,10 @@ Merupakan course dari Hackactive mengenai LLM menggunakan gemini. Terdiri dari b
     - AI Agent vs AI Assistant
     - Build Chatbot
 
+## Tugas Akhir
+- Tugas Akhir membuat AI Chatbot (selengkapnya di https://github.com/arofiqimaulana/chatbot-jadwal-latihan-fisik)
+
+![Preview Aplikasi](AI_Chatbot_Latihan_Fisik.png)
 
 ## Reference
 - https://excalidraw.com/
