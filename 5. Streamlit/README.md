@@ -26,3 +26,5 @@ conda activate avpn-project
 pip install -r requirements.txt
 ```
 
+![Preview Chatbot](latihan_chatbot.png)
+
